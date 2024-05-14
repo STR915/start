@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/START_OS/start/source/kernel/include/os_cfg.h
+
+F:/START_OS/start/source/kernel/init/first_task_entry.S
+
+F:/START_OS/start/source/kernel/init/start.S
+os_cfg.h
+F:/START_OS/start/source/kernel/init/os_cfg.h
+

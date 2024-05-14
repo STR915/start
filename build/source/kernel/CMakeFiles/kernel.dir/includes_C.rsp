@@ -1,0 +1,1 @@
+-IF:/START_OS/start/source -IF:/START_OS/start/source/kernel/include -I"F:/START_OS/start/../newlib/i686-elf/include"

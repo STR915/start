@@ -1,0 +1,11 @@
+F:/START_OS/start/build/CMakeFiles/edit_cache.dir
+F:/START_OS/start/build/CMakeFiles/rebuild_cache.dir
+F:/START_OS/start/build/source/boot/CMakeFiles/boot.dir
+F:/START_OS/start/build/source/boot/CMakeFiles/edit_cache.dir
+F:/START_OS/start/build/source/boot/CMakeFiles/rebuild_cache.dir
+F:/START_OS/start/build/source/loader/CMakeFiles/loader.dir
+F:/START_OS/start/build/source/loader/CMakeFiles/edit_cache.dir
+F:/START_OS/start/build/source/loader/CMakeFiles/rebuild_cache.dir
+F:/START_OS/start/build/source/kernel/CMakeFiles/kernel.dir
+F:/START_OS/start/build/source/kernel/CMakeFiles/edit_cache.dir
+F:/START_OS/start/build/source/kernel/CMakeFiles/rebuild_cache.dir
