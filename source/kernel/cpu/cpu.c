@@ -3,7 +3,7 @@
 #include "comm/cpu_instr.h"
 #include "cpu/irq.h"
 #include "ipc/mutex.h"
-
+#include "core/syscall.h"
 
 static segment_desc_t gdt_table[GDT_TABLE_SIZE];
 static mutex_t mutex;

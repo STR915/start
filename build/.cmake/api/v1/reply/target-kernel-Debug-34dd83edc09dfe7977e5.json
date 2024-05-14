@@ -71,7 +71,7 @@
 			"sourceIndexes" : 
 			[
 				0,
-				23
+				24
 			]
 		},
 		{
@@ -104,14 +104,14 @@
 				3,
 				4,
 				5,
-				22,
-				24,
-				26,
+				23,
+				25,
 				27,
 				28,
 				29,
 				30,
-				31
+				31,
+				32
 			]
 		}
 	],
@@ -149,7 +149,7 @@
 			"sourceIndexes" : 
 			[
 				0,
-				23
+				24
 			]
 		},
 		{
@@ -161,14 +161,14 @@
 				3,
 				4,
 				5,
-				22,
-				24,
-				26,
+				23,
+				25,
 				27,
 				28,
 				29,
 				30,
-				31
+				31,
+				32
 			]
 		},
 		{
@@ -191,7 +191,8 @@
 				19,
 				20,
 				21,
-				25
+				22,
+				26
 			]
 		}
 	],
@@ -236,6 +237,11 @@
 		{
 			"backtrace" : 1,
 			"path" : "source/kernel/include/core/memory.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "source/kernel/include/core/syscall.h",
 			"sourceGroupIndex" : 2
 		},
 		{
