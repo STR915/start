@@ -2,7 +2,7 @@
 #define ELF_H
 
 #include "types.h"
-
+#include "comm/boot_info.h"
 // ELF相关数据类型
 typedef uint32_t Elf32_Addr;
 typedef uint16_t Elf32_Half;
